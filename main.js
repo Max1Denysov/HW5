@@ -16,8 +16,8 @@ function word(n,l) {
 
 function conv(n) {
   n=+n;
-  if(isNaN(n)) throw new Error('нет');
-  let sign = n<0?'отрицательно ':'';
+  if(isNaN(n)) throw new Error('ошибка');
+  let sign = n<0?'минус ':'';
   n=Math.abs(n);
   if(!n) return 'ноль';
   if(n===Infinity) return sign+'Бесконечность';
