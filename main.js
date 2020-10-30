@@ -63,3 +63,6 @@ function cases(str) {
    
 }
 alert(cases('ja4va ScRi5Pt Cr5Sh').replace(new RegExp("[0-9]", "g"), "_"))
+
+//TASK 2 
+https://max1denysov.github.io/HW5/
