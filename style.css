@@ -1,0 +1,51 @@
+#blackbox {
+  position:fixed;
+  height:98vh;
+  width:35vw;
+  top:1vh;
+  border-radius:3vh;
+  background-color:black;
+  left:30vw;
+}
+#redlight {
+  position:fixed;
+  height:26vh;
+  width:15vw;
+  top:4vh;
+  border-radius:100vh;
+  background-color:red;
+  left:40vw;
+}
+#amberlight {
+  position:fixed;
+  height:26vh;
+  width:15vw;
+  top:33vh;
+  border-radius:100vh;
+  background-color:#FFBF00;
+  left:40vw;
+}
+#greenlight {
+  position:fixed;
+  height:26vh;
+  width:15vw;
+  top:63vh;
+  border-radius:100vh;
+  background-color:green;
+  left:40vw;
+}
+#button{
+  position:fixed;
+  height:8vh;
+  width:15vw;
+  top:90vh;
+  border-radius:100vh;
+  background-color:white;
+  left:40vw;
+  text-align:center;
+  font-family:agency fb;
+  font-size:3vh;
+  line-height:7.5vh;
+  cursor:pointer;
+}
+  
